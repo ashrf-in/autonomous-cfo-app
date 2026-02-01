@@ -1,0 +1,7 @@
+python-telegram-bot>=21.0
+google-generativeai>=0.8.0
+OdooRPC>=0.10.1
+sqlalchemy>=2.0.0
+python-dotenv>=1.0.0
+matplotlib>=3.8.0
+fpdf2>=2.7.0
